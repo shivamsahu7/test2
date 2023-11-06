@@ -1,0 +1,15 @@
+{
+	"USER": {
+		"OTP_SENT": "Otp has been sent.",
+        "LOGIN":"Login has been successfully",
+        "PROFILE":"Profile is updated."
+	},
+	"ERROR": {
+        "UNAUTHORIZE":"You are not authorize.",
+		"INTERNAL_SERVER": "Internal server error.",
+        "WRONG_PASSWORD":"Wrong password.",
+        "INCORRECT_OTP":"Incorrect otp.",
+        "OTP_ATTEMPT":"You have tried many attempts.",
+        "TOKEN_EXP":"Your token has been expired"
+	}
+}
